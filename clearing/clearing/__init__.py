@@ -11,5 +11,12 @@ setuptools.setup(
   description="Clears Terminal: Cross-Platform.",
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url=""
+  url="https://github.com/c00lhawk607/Clearing",
+  packages=setuptools.find_packages(),
+  classifiers=[
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU :: 3 :: License",
+    "Operating System :: OS Independent",
+  ],
+  python_requires=">=3.0",
 )
