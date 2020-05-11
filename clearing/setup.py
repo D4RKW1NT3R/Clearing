@@ -7,8 +7,8 @@ setup(
 name='clearing',
 version='0.0.1',
 description='Testing installation of Package',
-long_description=long_description
-long_description_content_type="text/markdown"
+long_description=long_description,
+long_description_content_type="text/markdown",
 url='https://github.com/c00lhawk607/Clearing',
 author='Jordan Dixon',
 author_email='jordandixon2004@outlook.com',
