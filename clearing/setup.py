@@ -16,7 +16,7 @@ license='GPL v3',
 packages=['clearing'],
 classifiers=[
   "Programming Language :: Python :: 3",
-  "License :: GNU General Public License v3",
+  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
   "Operating System :: OS Independent",
 ],
 zip_safe=False,
