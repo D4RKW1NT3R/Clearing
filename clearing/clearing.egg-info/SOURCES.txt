@@ -5,5 +5,5 @@ clearing/clear.py
 clearing.egg-info/PKG-INFO
 clearing.egg-info/SOURCES.txt
 clearing.egg-info/dependency_links.txt
-clearing.egg-info/not-zip-safe
 clearing.egg-info/top_level.txt
+clearing.egg-info/zip-safe

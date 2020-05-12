@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: clearing
 Version: 0.0.1
-Summary: Testing installation of Package
+Summary: Cross-Platform Terminal Clearing Module.
 Home-page: https://github.com/c00lhawk607/Clearing
 Author: Jordan Dixon
 Author-email: jordandixon2004@outlook.com
-License: GPL v3
+License: GNU General Public License v3 (GPLv3)
 Description: # Clear Module
         ## Made and Updated by: Jordan Dixon
         
